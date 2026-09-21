@@ -267,22 +267,6 @@ The application represents progress using a 10-character progress bar:
                 Exit / Loop
 ```
 
-## 🔮 Possible Future Improvements
-
-The application can be extended with additional features:
-
-* 💾 Save tasks to a file
-* 📂 Load tasks when the application starts
-* 📅 Add due dates
-* 🔴 Add task priorities
-* 🏷️ Add task categories
-* 🔎 Search for tasks
-* ✏️ Edit existing tasks
-* 📱 Create a graphical user interface (GUI)
-* 🌐 Convert it into a web application
-* 🗄️ Store tasks in a database
-* 🔔 Add reminders and notifications
-
 ## 👩‍💻 Author
 
 **Aqsa Saqib**

@@ -231,21 +231,6 @@ Total       : 12
 🏆 Highest possible score!
 ```
 
-## 🔮 Possible Future Improvements
-
-The project can be extended with additional features such as:
-
-* Add a player name
-* Add a scoring system
-* Add multiple players
-* Add a winning/losing condition
-* Save roll history to a file
-* Add colored terminal output
-* Add sound effects
-* Add a graphical user interface (GUI)
-* Add a leaderboard
-* Add different types of dice
-
 ## 👩‍💻 Author
 
 **Aqsa Saqib**
